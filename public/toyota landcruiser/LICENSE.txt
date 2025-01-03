@@ -1,0 +1,11 @@
+Model Information:
+* title:	Tayota Prado 2010 3D Model
+* source:	https://sketchfab.com/3d-models/tayota-prado-2010-3d-model-acca60013e8b4adaaa0823389525b5b2
+* author:	Betier Models (https://sketchfab.com/betier)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Tayota Prado 2010 3D Model" (https://sketchfab.com/3d-models/tayota-prado-2010-3d-model-acca60013e8b4adaaa0823389525b5b2) by Betier Models (https://sketchfab.com/betier) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
